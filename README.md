@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CuzaSergiu
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Java + Spring Framework
+- 📫 How to reach me 
+   - Github - https://github.com/CuzaSergiu
+   - LinkedIn - https://www.linkedin.com/in/cuza-sergiu/
+   - email - cuza.sergiu@yahoo.com
